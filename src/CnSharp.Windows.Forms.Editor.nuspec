@@ -28,7 +28,7 @@
   </metadata>
   <files>
     <!-- icon -->
-    <file src="..\..\assets\CnSharp-icon-256x256.png" target="assets\" />
+    <file src="..\assets\CnSharp-icon-256x256.png" target="assets\" />
     <!-- lib\net35 -->
     <file src="bin\Release\CnSharp.Windows.Forms.Editor.dll" target="lib\net35" />
     <file src="bin\Release\CnSharp.Windows.Forms.Editor.pdb" target="lib\net35" />
